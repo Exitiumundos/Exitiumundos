@@ -15,7 +15,8 @@
 <br />
 
 ---
-<img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=Exitiumundos&show_icons=true&hide_border=true" />
+[![Exitiumundo's github stats](https://github-readme-stats.vercel.app/api?username=Exitiumundos&show_icons=true&icon_color=fff&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://Exitiumundos.github.io)
+
 
 
 
@@ -25,8 +26,6 @@
 
 <!-- IGNORE EVERYTHING BELOW
 **Exitiumundos/Exitiumundos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+ <img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=Exitiumundos&show_icons=true&hide_border=true" />
 
 -->
