@@ -24,7 +24,7 @@
 
 [steam]: https://steamcommunity.com/profiles/76561198162751104
 [twitter]: https://twitter.com/exitiumundos
-[telegram]: t.me/arandomuser4
+[telegram]: https://t.me/arandomuser4
 
 
 <!-- IGNORE EVERYTHING BELOW
